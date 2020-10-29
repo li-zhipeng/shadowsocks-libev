@@ -10,3 +10,6 @@
 	path = libbloom
 	url = https://github.com/shadowsocks/libbloom.git
     ignore = dirty
+[submodule "libc-ares"]
+	path = libc-ares
+	url = https://github.com/c-ares/c-ares.git
